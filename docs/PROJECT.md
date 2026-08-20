@@ -1,0 +1,1 @@
+A system that takes a structured description of an organisation and returns the German and EU funding programmes it is actually eligible for, with the specific eligibility clauses that justify each match and an explicit statement of what the system is unsure about.
