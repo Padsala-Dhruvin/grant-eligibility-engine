@@ -1,0 +1,20 @@
+{
+  "id": "prog-001",
+  "name": "KfW-Konsortialkredit Innovation und Digitalisierung (290)| KfW ",
+  "authority": "foerderdatenbank.de",
+  "level": "land",
+  "bundesland": "Hessen",
+  "deadline": null,
+  "source_url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Innovation/F%C3%B6rderprodukte/KfW-Kredit-f%C3%BCr-Wachstum-(290)/",
+  "rules": [
+    {
+      "field": "employee_count",
+      "operator": "lte",
+      "value": 249,
+      "source_quote": "PASTE THE EXACT GERMAN SENTENCE HERE",
+      "confidence": 1.0
+    }
+  ],
+  "rules_incomplete": false,
+  "notes_from_reading": "Kreditbetrag: bis zu 100 Mio. Euro (KfW-Anteil) , Wir fördern: in- und ausländische Unternehmen und Projektgesellschaften bei Investitionen und Betriebsmitteln in den Bereichen Innovation und Digitalisierung, Ihr Vorteil: leichter Kreditzugang – KfW trägt einen Teil des Risikos,Laufzeit: flexible Laufzeiten"
+}

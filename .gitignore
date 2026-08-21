@@ -5,3 +5,8 @@ data/*
 __pycache__/
 .venv/
 "@ | Set-Content -Encoding utf8 .gitignore
+
+git add -A
+git status --short
+git commit -m "fix: move hand-labelled programme to data/labelled and track it"
+git push
