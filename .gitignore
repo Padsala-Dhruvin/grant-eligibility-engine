@@ -1,4 +1,7 @@
-data/
+@"
+data/*
+!data/labelled/
 .env
 __pycache__/
 .venv/
+"@ | Set-Content -Encoding utf8 .gitignore
